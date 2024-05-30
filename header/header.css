@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: cadetblue;
+    }
+    
+    .titulo{
+    
+    color: white;
+    padding: 0.8rem 0.3rem;
+    border-radius: 100%;
+    }
+    
+    .btn-github span{
+        text-decoration: none;
+        background-color: white;
+        color: white;
+        font-weight: 600;
+        padding: 0.5rem 2rem;
+        border-radius: 3px;
+    }
+    

@@ -1,0 +1,24 @@
+.footer{
+    display: grid;
+    background-color: grey;
+    color: white;
+    padding: 0.8rem 0.3rem;
+    justify-content: center;
+    align-items: center;
+    font-size: smaller;
+}
+
+.footer img{
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.footer div{
+    grid-column: 1/3;
+
+    display: grid;
+    gap: 1rem;
+    justify-content: center;
+}
