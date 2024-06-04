@@ -1,4 +1,29 @@
 
+.section1 {
+    padding: 1rem 1rem;
+    max-width: 375px;
+    margin: 0 auto;
+  }
+
+  .section1 h2 {
+    text-align: left; 
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+
+  th {
+    background-color: #f2f2f2;
+  }
+
 .section3 {
     max-width: 90.7rem;
     
