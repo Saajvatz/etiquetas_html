@@ -1,5 +1,4 @@
 let section1_DOM = document.querySelector(".section1");
-
 section1_DOM.innerHTML =`<h2>Bloque</h2>
 <table>
   <tr>
